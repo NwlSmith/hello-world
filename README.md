@@ -1,2 +1,2 @@
-# hello-world
-hey there
+# Practice repository for DWA
+<https://dwa15.com>
